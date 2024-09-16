@@ -1,1 +1,3 @@
 # hassangulrez.github.io
+
+Results-driven Data Analyst with over 4+ years performing complex undertakings specialized in data cleansing, interpretation, and transformation of complex data into actionable insights. Navigates and optimizes relational databases, delivering meaningful insights through project management, and presenting findings via compelling visualizations. Certified in Data Storytelling and Writing Accurate Business Cases to execute successful data product delivery. Driven to collaborate with technical teams and engineers, towards improving business operations and profitability by saving time, and increasing productivity.
